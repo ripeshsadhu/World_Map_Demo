@@ -21,6 +21,6 @@ worldmap.add('Random Data', {
         'us': 66
 })
 # Save Into The File
-worldmap.render_to_file('abc.svg')
+worldmap.render_to_file('Countries.svg')
 
 print("Success")

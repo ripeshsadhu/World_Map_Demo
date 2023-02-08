@@ -17,6 +17,6 @@ worldmap.add('Europe', ['europe'])
 worldmap.add('Antarctica', ['antarctic'])
 
 # save into the file
-worldmap.render_to_file('abc.svg')
+worldmap.render_to_file('continents.svg')
 
 print("Success")
